@@ -1,0 +1,15 @@
+{
+  "name": "app0",
+  "version": "0.0.1",
+  "description": "HTTP server for our Todo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "finalhandler": "^0.5.1",
+    "serve-static": "^1.11.1"
+  },
+  "author": "Joseph Núñez <toctochello@gmail.com>",
+  "license": "MIT"
+}
